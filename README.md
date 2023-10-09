@@ -4,10 +4,15 @@ A simple and efficient Task Management Web Application built using Django and Re
 
 Features
 Task Creation: Easily create tasks with titles and descriptions.
+
 Task Status: Mark tasks as completed or incompleted.
+
 Task Editing: Edit task details, including title and description.
+
 Task Deletion: Remove tasks when they are no longer needed.
+
 View Options: Filter tasks by completed and incompleted status.
+
 User-Friendly Interface: A clean and intuitive user interface for managing tasks.
 
 Technologies Used
