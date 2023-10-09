@@ -3,7 +3,7 @@
 A simple and efficient Task Management Web Application built using Django and React.
 
 Features
-  Task Creation: Easily create tasks with titles and descriptions.
+  	Task Creation: Easily create tasks with titles and descriptions.
 
   Task Status: Mark tasks as completed or incompleted.
 
