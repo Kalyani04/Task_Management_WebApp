@@ -3,70 +3,70 @@
 A simple and efficient Task Management Web Application built using Django and React.
 
 Features
-Task Creation: Easily create tasks with titles and descriptions.
+  Task Creation: Easily create tasks with titles and descriptions.
 
-Task Status: Mark tasks as completed or incompleted.
+  Task Status: Mark tasks as completed or incompleted.
 
-Task Editing: Edit task details, including title and description.
+  Task Editing: Edit task details, including title and description.
 
-Task Deletion: Remove tasks when they are no longer needed.
+  Task Deletion: Remove tasks when they are no longer needed.
 
-View Options: Filter tasks by completed and incompleted status.
+  View Options: Filter tasks by completed and incompleted status.
 
-User-Friendly Interface: A clean and intuitive user interface for managing tasks.
+  User-Friendly Interface: A clean and intuitive user interface for managing tasks.
 
-Technologies Used
+Technologies Used :-
 
-Backend: Django (Python)
+  1.Backend: Django (Python)
 
-Frontend: React (JavaScript)
+  2.Frontend: React (JavaScript)
 
-Database: SQLite (Included with Django)
+  3.Database: SQLite (Included with Django)
 
-HTTP Requests: Axios
+  4.HTTP Requests: Axios
 
-Getting Started:
+Getting Started:-
 
-cd Task-Management-App-Using-Django-React
+  cd Task-Management-App-Using-Django-React
 
-Backend Setup:
+Backend Setup:-
 
-Navigate to the backend directory and create a virtual environment.
+  Navigate to the backend directory and create a virtual environment.
 
-cd backend
+  cd backend
 
-python -m venv venv
+  python -m venv venv
 
-source venv/bin/activate   # On Windows
+  source venv/bin/activate   # On Windows
 
-Install backend dependencies and run the Django server.
+  Install backend dependencies and run the Django server.
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
-python manage.py migrate
+  python manage.py migrate
 
-python manage.py runserver
+  python manage.py runserver
 
 Frontend Setup:
 
-Navigate to the frontend directory.
+  Navigate to the frontend directory.
 
-cd frontend
+  cd frontend
 
-Install frontend dependencies and start the development server.
+  Install frontend dependencies and start the development server.
 
-npm install
+  npm install
 
-npm start
+  npm start
 
-Access the Application:
+  Access the Application:
 
-Open your web browser and access the Task Management Web Application at http://localhost:3000/.
+  Open your web browser and access the Task Management Web Application at http://localhost:3000/.
 
-Usage
+Usage:-
 
-Create, edit, and delete tasks as needed.
+  Create, edit, and delete tasks as needed.
 
-Filter tasks by completed and incompleted status.
+  Filter tasks by completed and incompleted status.
 
-Enjoy a streamlined task management experience!
+  Enjoy a streamlined task management experience!
