@@ -16,39 +16,57 @@ View Options: Filter tasks by completed and incompleted status.
 User-Friendly Interface: A clean and intuitive user interface for managing tasks.
 
 Technologies Used
+
 Backend: Django (Python)
+
 Frontend: React (JavaScript)
+
 Database: SQLite (Included with Django)
+
 HTTP Requests: Axios
-Getting Started
+
+Getting Started:
 
 cd Task-Management-App-Using-Django-React
+
 Backend Setup:
 
 Navigate to the backend directory and create a virtual environment.
+
 cd backend
+
 python -m venv venv
+
 source venv/bin/activate   # On Windows
+
 Install backend dependencies and run the Django server.
 
-
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
 
 Frontend Setup:
+
 Navigate to the frontend directory.
 
 cd frontend
+
 Install frontend dependencies and start the development server.
 
 npm install
+
 npm start
 
 Access the Application:
+
 Open your web browser and access the Task Management Web Application at http://localhost:3000/.
 
 Usage
+
 Create, edit, and delete tasks as needed.
+
 Filter tasks by completed and incompleted status.
+
 Enjoy a streamlined task management experience!
